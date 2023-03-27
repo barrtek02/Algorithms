@@ -1,0 +1,7 @@
+Algorytm max_element_r(list) to algorytm rekurencyjny oparty na strategii "dziel i zwyciężaj", który dzieli listę na połowę i szuka największego elementu w lewej i prawej części, a następnie zwraca większy z nich. Jego złożoność czasowa wynosi O(nlogn), ponieważ na każdym poziomie rekursji wykonywane są dwa wywołania funkcji oraz jedno porównanie dwóch elementów.
+
+Algorytm max2_element_r(list) to również algorytm rekurencyjny oparty na strategii "dziel i zwyciężaj". Dzieli on listę na połowę i wyznacza dwa największe elementy w każdej połowie, a następnie porównuje je ze sobą i z elementami, które zostały pominięte w obu połowach. Jego złożoność czasowa wynosi O(nlogn), ponieważ na każdym poziomie rekursji wykonywane są dwa wywołania funkcji oraz co najwyżej 2n porównań (najwyżej 2n, ponieważ na końcu funkcja dokonuje jeszcze jednego porównania wyników z lewej i prawej połowy).
+
+Algorytm average_r(list) to również algorytm rekurencyjny oparty na strategii "dziel i zwyciężaj". Dzieli on listę na połowę i wyznacza średnią arytmetyczną dla lewej i prawej połowy, a następnie oblicza średnią arytmetyczną dla całej listy w oparciu o wyniki dla połówek. Jego złożoność czasowa wynosi O(nlogn), ponieważ na każdym poziomie rekursji wykonywane są dwa wywołania funkcji oraz jedno dodawanie i jedno mnożenie.
+
+Podsumowując, wszystkie trzy algorytmy mają złożoność czasową O(nlogn), ponieważ opierają się na strategii "dziel i zwyciężaj", która wymaga logarytmicznego podziału danych oraz liniowego przetwarzania na każdym poziomie rekursji.

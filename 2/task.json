@@ -1,0 +1,25 @@
+{
+  "Q": {
+    "q0": {
+      "a": "q1",
+      "b": "q0"
+    },
+    "q1": {
+      "a": "q0",
+      "b": "q0"
+    }
+  },
+  "accept_state": [
+    "q1"
+  ],
+  "input_string": "baaab",
+  "simulation": [
+    "q0 ------- b ------> q0",
+    "q0 ------- a ------> q1",
+    "q1 ------- a ------> q0",
+    "q0 ------- a ------> q1",
+    "q1 ------- b ------> q0",
+    "Final state: q0",
+    "Input string not accepted"
+  ]
+}
