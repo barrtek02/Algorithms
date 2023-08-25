@@ -1,0 +1,62 @@
+[
+    {
+        "TYPE": "ASV",
+        "PRICE": 7188,
+        "RANGE": 66,
+        "CAMERA": 0
+    },
+    {
+        "TYPE": "AGV",
+        "PRICE": 1514,
+        "RANGE": 7,
+        "CAMERA": 1
+    },
+    {
+        "TYPE": "AGV",
+        "PRICE": 8933,
+        "RANGE": 2,
+        "CAMERA": 1
+    },
+    {
+        "TYPE": "AFV",
+        "PRICE": 7540,
+        "RANGE": 31,
+        "CAMERA": 1
+    },
+    {
+        "TYPE": "ASV",
+        "PRICE": 874,
+        "RANGE": 89,
+        "CAMERA": 0
+    },
+    {
+        "TYPE": "AGV",
+        "PRICE": 7291,
+        "RANGE": 75,
+        "CAMERA": 1
+    },
+    {
+        "TYPE": "AUV",
+        "PRICE": 6881,
+        "RANGE": 46,
+        "CAMERA": 0
+    },
+    {
+        "TYPE": "AUV",
+        "PRICE": 8559,
+        "RANGE": 81,
+        "CAMERA": 1
+    },
+    {
+        "TYPE": "ASV",
+        "PRICE": 4163,
+        "RANGE": 28,
+        "CAMERA": 0
+    },
+    {
+        "TYPE": "AGV",
+        "PRICE": 8848,
+        "RANGE": 22,
+        "CAMERA": 1
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "key": 5,
+        "left": 3,
+        "right": 7
+    },
+    {
+        "key": 3,
+        "left": 2,
+        "right": 4
+    },
+    {
+        "key": 7,
+        "left": null,
+        "right": 11
+    },
+    {
+        "key": 2,
+        "left": null,
+        "right": null
+    },
+    {
+        "key": 4,
+        "left": null,
+        "right": null
+    },
+    {
+        "key": 11,
+        "left": 10,
+        "right": 12
+    },
+    {
+        "key": 10,
+        "left": null,
+        "right": null
+    },
+    {
+        "key": 12,
+        "left": null,
+        "right": null
+    }
+]
